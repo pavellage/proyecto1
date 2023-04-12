@@ -6,6 +6,7 @@ public class Principal1 {
 		System.out.println(" hola git ");
 		System.out.println(" Primer commit realizado ");
 		System.out.println(" Segundo commit realizado ");
+		System.out.println(" Pruebas Git. Se añade cambio1 ");
 
 	}
 
